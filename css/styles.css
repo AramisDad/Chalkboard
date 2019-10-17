@@ -16,7 +16,7 @@ ul {
   border-style: solid;
   border-color: #e6be6e;
   border-width: thick;
-  width: 800px;
+  width: 1000px;
   height: 500px;
 
 }
@@ -123,32 +123,35 @@ ul {
   font-size: 24px;
 }
 
-.chalk-L {
-  color: #dab9ed;
+.chalk-vPaY {
+  color: #fff587;
   text-align: center;
   font-size: 24px;
 }
 
-.chalk-L {
-  color: #dab9ed;
+.chalk-bViGry {
+  color: #5c5c5c;
   text-align: center;
   font-size: 24px;
 }
 
-.chalk-L {
-  color: #dab9ed;
+.chalk-rIshBr {
+  color: #c24a1f;
   text-align: center;
   font-size: 24px;
 }
 
-.chalk-L {
-  color: #dab9ed;
+.chalk-B {
+  color: black;
   text-align: center;
   font-size: 24px;
 }
 
-.chalk-L {
-  color: #dab9ed;
-  text-align: center;
-  font-size: 24px;
+.chalkboard {
+  font-family: 'Shadows Into Light';
+  margin-left: 250px;
+}
+
+#indent {
+  margin-left: 80px;
 }

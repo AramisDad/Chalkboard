@@ -1,0 +1,154 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  text-align: center;
+}
+
+
+
+ul {
+  float:left;
+  width: 23.93849384380953%;
+}
+
+.chalkboard {
+  background-color: #474747;
+  border-style: solid;
+  border-color: #e6be6e;
+  border-width: thick;
+  width: 800px;
+  height: 500px;
+
+}
+
+.chalk-I {
+  color: #6b1adb;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-W {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-R {
+  color: Red;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-Y {
+  color: Yellow;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-pOr {
+  color: #ffb957;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-dGr {
+  color: #0a6e28;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-pBl {
+  color: #83e8fc;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-fR {
+  color: #e35f5f;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-dBl {
+  color: #000282;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-tPi {
+  color: #ff6eca;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-goY {
+  color: #ffb700;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-ugBr {
+  color: #bd8804;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-bBr {
+  color: #853e0f;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-regP {
+  color: #5f0f85;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-rOr {
+  color: #ff662e;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-pukeGr {
+  color: #d4bd26;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
+
+.chalk-L {
+  color: #dab9ed;
+  text-align: center;
+  font-size: 24px;
+}
